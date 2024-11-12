@@ -1,2 +1,4 @@
 RESOLUSI SAYA
 -Lorem Ipsum 1
+-Lorem Ipsum 2
+
