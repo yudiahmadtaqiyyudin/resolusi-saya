@@ -1,0 +1,2 @@
+Branch A: mengubah baris ke-10 dari a = 5 menjadi a = 10.
+Branch B: juga mengubah baris ke-10 dari a = 5 menjadi a = 20.
