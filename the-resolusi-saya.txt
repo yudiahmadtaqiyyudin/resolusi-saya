@@ -10,4 +10,8 @@ Kontrol versi
 Snapshot dapat digunakan untuk mengurangi potensi kerusakan pada sistem sebelum pemutakhiran, perubahan perangkat lunak, atau penghapusan komponen.
 Fotografi
 Snapshot adalah foto yang diambil secara spontan dan cepat, biasanya dibuat dengan kamera yang relatif murah dan kompak
+Apa itu Snapshot? Snapshot adalah sebuah fitur yang berfungsi sebagai back-up data untuk melakukan pencegahan terhadap kehilangan data yang bisa terjadi karena 
 
+kegagalan development. Meskipun memiliki fungsi untuk back-up data, Snapshot memiliki perbedaan utama dengan back-up data
+
+Snapshot ini mencatat kepemilikan token atau koin dalam dompet crypto tertentu. Ini adalah semacam foto digital dari blockchain yang digunakan untuk mencatat siapa yang memiliki apa pada waktu tertentu. Snapshot biasanya dilakukan oleh pengembang proyek blockchain atau token sebelum airdrop.
