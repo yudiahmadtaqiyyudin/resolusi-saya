@@ -1,2 +1,3 @@
 Branch A: mengubah baris ke-10 dari a = 5 menjadi a = 10.
 Branch B: juga mengubah baris ke-10 dari a = 5 menjadi a = 20.
+Untuk mengatasi konflik, kita harus memilih atau menggabungkan perubahan yang sesuai, lalu menyimpan dan melakukan commit ulang sebelum melanjutkan merge.
