@@ -6,4 +6,8 @@ RESOLUSI SAYA
         *cars 1000
         *robot 2000
 -Lorem Ipsum 600
+Kontrol versi
+Snapshot dapat digunakan untuk mengurangi potensi kerusakan pada sistem sebelum pemutakhiran, perubahan perangkat lunak, atau penghapusan komponen.
+Fotografi
+Snapshot adalah foto yang diambil secara spontan dan cepat, biasanya dibuat dengan kamera yang relatif murah dan kompak
 
